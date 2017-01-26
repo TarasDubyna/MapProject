@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MapProject</string>
+
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="registration">Регистрация</string>
+    <string name="enter">Вход</string>
+    <string name="vkbutton">Зайти с помощью вконтакте</string>
+
+    <string name="drawer_head_pic_text_1">Самое</string>
+    <string name="drawer_head_pic_text_2">вкусное</string>
+    <string name="drawer_head_pic_text_3">такси!</string>
+
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="item_my_number">Мой номер:</string>
+    <string name="item_actions">Акции</string>
+    <string name="item_my_card">Мои карты</string>
+    <string name="item_history">История</string>
+    <string name="item_share">Поделиться</string>
+    <string name="item_call">Контакты</string>
+    <string name="item_exit">Выйти</string>
+
+</resources>
